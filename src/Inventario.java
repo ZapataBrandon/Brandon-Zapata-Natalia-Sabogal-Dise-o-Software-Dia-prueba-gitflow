@@ -10,5 +10,8 @@ public class Inventario {
 	public void metodoC () {
 		System.out.println("Ejecutando metodo C");
 	}
+	public void metodoD() {
+		System.out.println("Ejecutando metodo D");
+	}
 	
 }
